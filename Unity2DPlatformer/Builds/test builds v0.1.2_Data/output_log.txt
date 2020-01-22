@@ -1,0 +1,162 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.2_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.098 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.2_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: fc4 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.473628 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.464484 ms (FindLiveObjects: 0.040546 ms CreateObjectMapping: 0.031307 ms MarkObjects: 0.384418 ms  DeleteObjects: 0.007185 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.088586 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 908.
+Total: 0.871485 ms (FindLiveObjects: 0.092383 ms CreateObjectMapping: 0.059022 ms MarkObjects: 0.706221 ms  DeleteObjects: 0.012831 ms)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.000104 ms
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.730856 ms (FindLiveObjects: 0.061075 ms CreateObjectMapping: 0.025662 ms MarkObjects: 0.418292 ms  DeleteObjects: 0.224800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.273353 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.466023 ms (FindLiveObjects: 0.041059 ms CreateObjectMapping: 0.024122 ms MarkObjects: 0.393656 ms  DeleteObjects: 0.006158 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.691337 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 853.
+Total: 0.827346 ms (FindLiveObjects: 0.082631 ms CreateObjectMapping: 0.039006 ms MarkObjects: 0.691850 ms  DeleteObjects: 0.011291 ms)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (-5.7, -0.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (-5.7, -0.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (-5.7, -0.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (-5.7, -0.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (35.7, -1.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (35.7, -1.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (35.7, -1.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (35.7, -1.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (35.7, -1.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.374462 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.715459 ms (FindLiveObjects: 0.053377 ms CreateObjectMapping: 0.027201 ms MarkObjects: 0.450113 ms  DeleteObjects: 0.183227 ms)
+
+Game Exited
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+

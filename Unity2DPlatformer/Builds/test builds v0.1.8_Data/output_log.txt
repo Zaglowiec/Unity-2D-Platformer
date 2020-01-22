@@ -1,0 +1,196 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.8_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.8_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.8_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.8_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.8_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.8_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.8_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.8_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.8_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.097 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Paweł\Desktop\Mateusz I\Unity 5.x\2D Game\Unity2DPlatformer\Builds\test builds v0.1.8_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: bb8 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.070107 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 5297.
+Total: 2.545707 ms (FindLiveObjects: 0.502982 ms CreateObjectMapping: 0.143709 ms MarkObjects: 1.880025 ms  DeleteObjects: 0.016937 ms)
+
+Activate Checkpoint (-6.8, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (-6.8, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (-6.8, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (78.8, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (78.8, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (78.8, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (78.8, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (78.8, 2.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (133.1, -35.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (133.1, -35.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (133.1, -35.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (133.1, -35.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (133.1, -35.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (133.1, -35.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (195.7, -7.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (195.7, -7.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (195.7, -7.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (195.7, -7.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (195.7, -7.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (195.7, -7.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (260.5, -13.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (260.5, -13.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (260.5, -13.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Reapawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Activate Checkpoint (260.5, -13.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.705646 ms
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 0.751394 ms (FindLiveObjects: 0.066722 ms CreateObjectMapping: 0.026175 ms MarkObjects: 0.453710 ms  DeleteObjects: 0.203759 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.763198 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 853.
+Total: 0.873033 ms (FindLiveObjects: 0.086738 ms CreateObjectMapping: 0.040033 ms MarkObjects: 0.731890 ms  DeleteObjects: 0.013344 ms)
+
